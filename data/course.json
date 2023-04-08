@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "enrollStudent": 300,
+    "course_fee": 10000,
+    "title": "C Programming for Beginner",
+    "instructor": {
+      "name": "Syed Marufur Rahman",
+      "course_start": "01-04-2023 6:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://contentstatic.techgig.com/photo/78576603/4-most-common-c-programming-mistakes-that-you-must-avoid.jpg?72434",
+    "details": "C Programming is the mother of all Programming languages and is a start to building your career in the field of information technology. In C Programming class one will learn the usage of syntaxes and will learn in details Object Oriented Programming OOPS Concepts. Mastery of C language will help you build a solid foundation and make learning of any programming language in your future endeavors in technology simple. Anyone and everyone can learn C Programming Language as it is easy to understand. Post learning C language aspiring job-seekers can look to learn more technologies coded on C language to further enhance their Resume."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "02",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "enrollStudent": 788,
+    "course_fee": 15000,
+    "title": "Core Java Programming",
+    "instructor": {
+      "name": "Shoriful Islam",
+      "course_start": "05-04-2023 9:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg",
+    "details": "Java commonly referred to as the father of all programming languages is a very important and highly trending course at SourceKode Institute. It involves object oriented programming and is used to master additional softwares in web, desktop serverside as well as in mobility. Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages. Java allows you to create modular programs and reusable code. It is one of the best languages for beginners to learn. It is also opensource and free to use, hence it’s adopted by many companies world-wide."
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "enrollStudent": 288,
+    "course_fee": 6000,
+    "title": "Basic web design & wordpress customization",
+    "instructor": {
+      "name": "Syeda Mithila",
+      "course_start": "01-04-2023 3:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://www.techbooky.com/wp-content/uploads/2022/02/web-design-2.jpeg",
+    "details": "Web design refers to the process of creating a website layout and user interface, as well as designing graphics, typography, and other visual elements that are used on the site. Good web design should prioritize usability and user experience, while also being aesthetically pleasing and consistent with the brand's visual identity. WordPress is a popular content management system that allows users to create and manage websites easily. It offers a variety of templates and plugins that can be customized to create a unique website design. Customizing a WordPress website can involve changing the layout, colors, typography, and other design elements to create a unique look and feel. To customize a WordPress website, you'll need to have a basic understanding of HTML, CSS, and JavaScript. You'll also need to be familiar with the WordPress dashboard and how to install and configure plugins and themes."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "03",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "enrollStudent": 188,
+    "course_fee": 12000,
+    "title": "Advance Java Script & DOM",
+    "instructor": {
+      "name": "shoriful Islam",
+      "course_start": "01-05-2023 10:00 AM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://oracle-devrel.github.io/devo-image-repository/seo-thumbnails/JavaScript---Thumbnail-1200-x-630.jpg",
+    "details": "An advanced JavaScript and DOM course typically covers more in-depth topics related to JavaScript programming and manipulating the Document Object Model (DOM). Some of the details that may be covered in such a course include: Advanced JavaScript programming concepts such as closures, higher-order functions, object-oriented programming (OOP), and asynchronous programming using Promises and async/await. Manipulating the DOM using advanced techniques such as event delegation, event bubbling, and event capturing. Working with advanced DOM APIs such as the Web Audio API, the Web Storage API, and the Canvas API. Working with AJAX and JSON to dynamically load content into a web page. Using third-party libraries such as jQuery, React, and Angular to simplify JavaScript programming and DOM manipulation. Optimizing website performance by reducing page load times, minimizing resource usage, and using caching techniques. Debugging JavaScript code and fixing common bugs and errors. Developing and testing cross-browser compatible web applications.Integrating JavaScript with other web technologies such as HTML, CSS, and server-side programming languages."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "05",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "enrollStudent": 90,
+    "course_fee": 12000,
+    "title": "C++ programming for beginner to advance",
+    "instructor": {
+      "name": "shoriful Islam",
+      "course_start": "10-03-2022 8:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://www.analyticsinsight.net/wp-content/uploads/2022/03/bh1-1024x725-1.jpg",
+    "details": "C++ programming course covers various aspects of the C++ programming language,Introduction to C++: Understanding the basics of C++ programming, including data types, control flow, functions, and arrays.Object-oriented programming in C++: Implementing OOP concepts in C++, including classes, objects, inheritance, polymorphism, and encapsulation.Pointers and dynamic memory management: Understanding pointers and dynamic memory allocation in C++, including new and delete operators.File input/output and handling exceptions: Working with files in C++, including reading and writing files, and handling exceptions.C++ data structures: Understanding data structures such as linked lists, stacks, queues, trees, and graphs, and implementing them in C++.Standard Template Library (STL): Working with the STL, including containers such as vectors, lists, and maps, and algorithms such as sorting and searching.Multithreading and concurrency: Developing multithreaded applications in C++ using threads, mutexes, and condition variables.Graphics and game programming: Developing graphical applications and games using C++ libraries such as OpenGL and SDL.Interacting with hardware: Developing applications that interact with hardware devices such as sensors, motors, and displays using C++ libraries.Advanced topics: Advanced topics such as templates, namespaces, and the C++ preprocessor, and optimizing C++ code for performance."
+  },
+
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "category_id": "03",
+    "rating": { "number": 4.1, "badge": "Excellent" },
+    "enrollStudent": 28,
+    "course_fee": 18000,
+    "title": "React JS Framework for begenning to advance",
+    "instructor": {
+      "name": "Syed Marufur Rahman",
+      "course_start": "01-06-2023 4:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png",
+    "details": "A ReactJS framework course covers various aspects of building web applications using the ReactJS library, Introduction to ReactJS: Understanding the fundamentals of ReactJS, including components, JSX syntax, and the virtual DOM. ReactJS setup and configuration: Installing and configuring ReactJS and its supporting tools such as Node.js, NPM, and Webpack. React components and state management: Creating, nesting, and styling components, managing component state, and using React Hooks. React routing and navigation: Implementing routing and navigation in ReactJS using React Router. Working with APIs: Fetching and displaying data from external APIs using ReactJS. Testing ReactJS applications: Writing unit tests and integration tests using Jest and Enzyme. Redux and state management: Understanding the principles of Redux, implementing Redux with ReactJS, and managing complex application state. Server-side rendering: Rendering React components on the server-side using Node.js. Building scalable ReactJS applications: Using best practices to optimize performance, reduce code complexity, and make ReactJS applications scalable."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "category_id": "04",
+    "rating": { "number": 4.0, "badge": "Excellent" },
+    "enrollStudent": 108,
+    "course_fee": 10000,
+    "title": "Python programming for beginner",
+    "instructor": {
+      "name": "Nazmul Islam",
+      "course_start": "01-03-2023 9:00 AM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://zemez.io/wp-content/uploads/2022/10/python-1024x576.png",
+    "details": "Understanding the fundamentals of Python, including data types, control flow, functions, modules, and libraries.Object-oriented programming in Python: Implementing OOP concepts in Python, including classes, objects, inheritance, polymorphism, and encapsulation.File input/output and handling exceptions: Working with files in Python, including reading and writing files, and handling exceptions.Python data structures: Understanding data structures such as lists, tuples, dictionaries, and sets, and implementing them in Python.Python libraries: Working with popular Python libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization.Web scraping: Extracting data from websites using Python libraries such as Beautiful Soup and Scrapy.GUI development: Developing graphical user interfaces (GUI) using Python libraries such as Tkinter and PyQT.Database programming: Using Python to interact with databases, including SQLite, MySQL, and PostgreSQL.Working with APIs: Interacting with web APIs using Python, including RESTful APIs, JSON and XML data formats.Artificial intelligence and machine learning: Using Python to develop artificial intelligence and machine learning models using libraries such as TensorFlow and Scikit-Learn."
+  },
+
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "category_id": "06",
+    "rating": { "number": 5.0, "badge": "Excellent" },
+    "enrollStudent": 50,
+    "course_fee": 20000,
+    "title": "Mordern Robotics: Machine planning and control",
+    "instructor": {
+      "name": "Nazmul Islam",
+      "course_start": "01-07-2023 6:00 PM",
+      "img": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1680366507~exp=1680367107~hmac=5c7ce47a8204411d362dcb72a742450ba7befe90195c8fb8d85f3343fc5a68ca"
+    },
+    "image_url": "https://smecbangalore.com/wp-content/uploads/2019/10/robotics-training-in-bangalore-1.jpg",
+    "details": "A robotics course covers various aspects of robotics,introduction to robotics: Understanding the basics of robotics, including robot types, robot components, and robot control.Robot kinematics: Understanding robot motion, including forward and inverse kinematics, and trajectory planning.Robot sensors and perception: Understanding sensors used in robotics, including cameras, LIDAR, and IMUs, and using perception algorithms to extract information from sensor data.Robot control: Implementing robot control algorithms, including PID control, feedback control, and model-based control.Robot programming: Programming robots using high-level programming languages such as Python and C++, and using robot programming frameworks such as ROS (Robot Operating System).Robot manipulation and grasping: Understanding robot manipulation and grasping, including robot arm control, object recognition, and grasping algorithms.Robot navigation and mapping: Understanding robot navigation and mapping, including SLAM (Simultaneous Localization and Mapping), path planning, and obstacle avoidance.Robot learning and artificial intelligence: Understanding robot learning and AI, including reinforcement learning, imitation learning, and deep learning for robotics.Robot applications: Exploring applications of robotics, including autonomous vehicles, industrial automation, healthcare, and search and rescue."
+  }
+]
